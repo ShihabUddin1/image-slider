@@ -1,0 +1,24 @@
+.container {
+  height: 800px;
+  width: 100%;
+  background-color: #aaaaaa;
+  position: absolute;
+}
+.main1 {
+  height: 400px;
+  width: 500px;
+  background-color: #aaaaaa;
+  margin-top: 60px;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+  border-radius: 20px;
+  margin-top: 60px;
+}
+button {
+  border-radius: 20px;
+  background-color: rgb(76, 0, 255);
+  color: #fff;
+}
